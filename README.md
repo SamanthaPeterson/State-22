@@ -4,10 +4,10 @@
 <p align="center">
 
 
-  <h1 align="center">MVC Tech Blog</h1>
+  <h1 align="center">22. State Challenge: Redux Store</h1>
 
   <p align="center">
-    NoSQL MongoDB Social network API - Created by Samantha Peterson
+    22. State Challenge: Redux Store- Created by Samantha Peterson
     <br />
     <a href="https://github.com/SamanthaPeterson/NoSQL-18"><strong>Check it out »</strong></a>
     <br />
@@ -29,7 +29,7 @@ Deployed link here
 
 ## Brief Summary 
 
-Tech Blog
+22. State Challenge: Redux Store
  
 
 ## Screenshot
